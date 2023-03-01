@@ -6,7 +6,7 @@ Praticando HTML, CSS e JAVASCRIPT com o canal do Youtube da <a href="https://www
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="Projeto Relógio Digital DINÂMICO" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -25,7 +25,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Assistir tutorial](https://www.youtube.com/watch?v=GK0ok3ZCXwM&t=1s&ab_channel=LarissaKich)
 
-
 ---
 
-Feito com ♥ by [Larissa Kich](https://github.com/Larissakich) 
+Feito com ♥ by [Larissa Kich](https://github.com/Larissakich)
